@@ -18,7 +18,6 @@ h1, h2 {
   display: flex;
   flex-direction: column; /* Stack items vertically */
   align-items: center; /* Center items horizontally */
-  background: #fff;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -80,10 +79,10 @@ th, td {
 }
 
 th {
-  background-color: #f2f2f2;
+  background-color: #f4f4f9;
   font-weight: bold;
 }
 
 tr:nth-child(even) {
-  background-color: #f9f9f9;
+  background-color:#d0d0e9;
 }
